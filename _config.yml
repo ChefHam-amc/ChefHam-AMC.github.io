@@ -1,16 +1,14 @@
 title: Aaron Cunningham # your name (or website title) here
 logo: "images/20220706_190304.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  A new entry into the field id Data Science who is very interested in Machine Learning and Data Engineering. I recently completed my 
-  Undergraduate Degree in Actuarial Science and Statistics.
-  Many of my classes centered around development of basic risk models along with various entry level machine learning using R and SAS. My Computer Science courses 
-  chose to emphasise Database development and BigData infastructure.
+  A new entry into the field of Data Science who is very interested in Model Development, Machine Learning and Data Engineering.
+  <br>
+  BS Actuarial Science and Stastistics Minor: Computer Science
   <br><br>
-  In the Summer of 2022 I entered the field of Data Science not knowing whether it was for me or not. and an Intern Data Scientist at Commerce Bank in Kansas City, MO, USA. 
-  As a 10-week intern I worked in the Enterprise Analytics and Business Intelligence Division on various projects supporting the Wealth and Marketing Lines of Business.  
-  I created and presented a comparative Data Analysis presentation on prospective customers, along with a Power BI Dashboard report on current Private Banking customers for use within Commerce Trust Company.  
+  In the Summer of 2022 I entered the field of Data Science not knowing whether it was for me or not. In the Summer of 2022 I was hired as a 
+  Data Science Intern with Commerce Bank in Kansas City, Missouri; and that expierence allowed me to realize that Data is a field that I want to persue for my future career.
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="www.linkedin.com/in/aaron-cunningham-326782247">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
