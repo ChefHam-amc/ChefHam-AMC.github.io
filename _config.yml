@@ -1,9 +1,14 @@
-title: John Doe # your name (or website title) here
+title: Aaron Cunningham # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  A new entry into the field id Data Science who is very interested in Machine Learning and Data Engineering. I recently completed my 
+  Undergraduate Degree in Actuarial Science and Statistics. In this program I emphasised the Statistical knowlege along with getting my minor in Computer Science. 
+  Many of my classes centered around development of basic risk models along with various entry level machine learning using R and SAS. My Computer Science courses 
+  chose to emphasise Database development and BigData infastructure.
   <br><br>
-  Second description 
+  In the Summer of 2022 I entered the field of Data Science and an Intern Data Scientist at Commerce Bank in Kansas City, MO, USA. 
+  As a 10-week intern I worked in the Enterprise Analytics and Business Intelligence Division on various projects supporting the Wealth and Marketing Lines of Business.  
+  I created and presented a comparative Data Analysis presentation on prospective customers, along with a Power BI Dashboard report on current Private Banking customers for use within Commerce Trust Company.  
   <br><br>
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
